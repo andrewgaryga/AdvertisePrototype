@@ -558,6 +558,7 @@ section {
 
 section#adplacement {
   padding: 0;
+  display: inherit !important;
 }
 
 #black {
